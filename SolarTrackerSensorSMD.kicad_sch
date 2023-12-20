@@ -2782,8 +2782,8 @@
     (uuid fff2f4d0-e437-49a3-8bd5-a4a4e84dabc2)
   )
 
-  (text "SPDX-FileCopyrightText: 2023 Antonios Vamporakis <ant@anttronics.com>\nSPDX-License-Identifier: CERN-OHL-S-2.0+\n\nThis source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A \nPARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.\n\nSource location: https://github.com/anttronics/SolarTrackerSensor\n\nAs per CERN-OHL-S v2 section 4, should You produce hardware based on this source, You must where practicable maintain the Source Location \nvisible on the circuit board, external case or documentation of the SolarTrackerSensor or other products you make using this source.\n"
-    (at 191.77 180.34 0)
+  (text "SPDX-FileCopyrightText: 2023 Antonios Vamporakis <ant@anttronics.com>\nSPDX-License-Identifier: CERN-OHL-W-2.0+\n\nYou may redistribute and modify this documentation and make products\nusing it under the terms of the CERN-OHL-W v2 (https:/cern.ch/cern-ohl).\nThis documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED\nWARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY\nAND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-W v2\nfor applicable conditions.\n\nSource location: https://github.com/anttronics/SolarTrackerSensor\n\nAs per CERN-OHL-W v2 section 4.1, should You produce hardware based on\nthese sources, You must maintain the Source Location visible on the\nexternal case of the SolarTrackerSensor or other product you make using\nthis documentation.\n"
+    (at 236.22 186.69 0)
     (effects (font (size 0.8 0.8)) (justify left bottom))
     (uuid 64f2ebf7-fbac-4878-b9e0-66cc4273358d)
   )
